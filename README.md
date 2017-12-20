@@ -17,14 +17,14 @@ CONTENTS OF THIS FILE
 INTRODUCTION
 ------------
 The main project folder contains the following files:
-
+```
           - Project2_Clustering.R
           - Project2_Clustering2.R
 	  - dataset1.csv
 	  - dataset2.csv
 	  - Project2_Clustering_Report.pdf
           - Readme.txt
-
+```
 
 REQUIREMENTS
 ------------
